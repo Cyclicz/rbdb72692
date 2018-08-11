@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "express": "4.x.x",
-    "pg": "10.x.x",
-    "body-parser": "1.18.x"
+    "pg": "10.4",
+    "body-parser": "1.18.3"
   }
 }
